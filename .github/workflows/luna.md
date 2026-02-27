@@ -15,7 +15,18 @@ permissions:
 safe-outputs:
   create-pull-request: {}
 
-network: defaults
+network:
+  allowed:
+    - defaults
+    - openai.azure.com
+
+tools:
+  bash:
+    - "curl:*"
+    - "python3:*"
+    - "base64:*"
+    - "file:*"
+    - "mkdir:*"
 
 engine:
   id: copilot
