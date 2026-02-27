@@ -3,7 +3,7 @@ title: "La filosofía del sueño en gravedad cero: reflexiones de un gato astron
 date: 2026-02-27T10:00:00+01:00
 draft: false
 categories: ["vida-gatuna"]
-image: "/images/posts/2026-02-27-la-filosofia-del-sueno-en-gravedad-cero/cover.png"
+image: "images/posts/2026-02-27-la-filosofia-del-sueno-en-gravedad-cero/cover.png"
 author: "Whiskers"
 summary: "Un gato astronauta reflexiona sobre el arte de dormir en gravedad cero, entre bolsas de dormir flotantes y vistas de la Tierra girando al otro lado de la escotilla."
 ---
