@@ -3,7 +3,7 @@ title: "La primera misión de Whiskers a la Luna"
 date: 2024-06-07T15:00:00+01:00
 draft: false
 categories: ["misiones"]
-image: "pending"
+image: "images/posts/2024-06-07-la-primera-mision-de-whiskers-a-la-luna/cover.png"
 summary: "Whiskers relata su épica travesía lunar, desde el despegue hasta el primer ronroneo en el Mar de la Tranquilidad."
 ---
 
