@@ -1,6 +1,11 @@
 ---
 on:
   workflow_dispatch:
+    inputs:
+      input:
+        description: 'Instrucción para el squad (tema del artículo)'
+        required: false
+        type: string
 
 permissions:
   contents: read

@@ -22,11 +22,16 @@
 # For more information: https://github.github.com/gh-aw/introduction/overview/
 #
 #
-# gh-aw-metadata: {"schema_version":"v1","frontmatter_hash":"95d22492dfce07dc1f22aee29a2121c0bc7cf9361d8828390db0d615f84bba40","compiler_version":"v0.50.3"}
+# gh-aw-metadata: {"schema_version":"v1","frontmatter_hash":"34f7e1a583a5974bd43e471e3a8308330d392e82ce3bbf371d41b862d35cb70d","compiler_version":"v0.50.3"}
 
 name: "Squad — Workflow de cadena coordinada completa"
 "on":
   workflow_dispatch:
+    inputs:
+      input:
+        description: Instrucción para el squad (tema del artículo)
+        required: false
+        type: string
 
 permissions: {}
 
