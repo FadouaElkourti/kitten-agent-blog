@@ -22,7 +22,7 @@
 # For more information: https://github.github.com/gh-aw/introduction/overview/
 #
 #
-# gh-aw-metadata: {"schema_version":"v1","frontmatter_hash":"5b4d5c9afc8fbe29d875a46659ffb588eb525c68b5987ccd4b86a2ea9d9cca1b","compiler_version":"v0.50.3"}
+# gh-aw-metadata: {"schema_version":"v1","frontmatter_hash":"493cd2d8c080b3b1183951639eb46feceaec0aed7b6fcbef2641576144f621c4","compiler_version":"v0.50.3"}
 
 name: "Luna — Workflow de generación de imágenes de portada"
 "on":

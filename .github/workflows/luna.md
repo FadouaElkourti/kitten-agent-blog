@@ -7,6 +7,8 @@ on:
         required: false
         type: string
 
+strict: false
+
 permissions:
   contents: read
 
@@ -14,6 +16,11 @@ safe-outputs:
   create-pull-request: {}
 
 network: defaults
+
+engine:
+  id: copilot
+  env:
+    AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
 ---
 
 # Luna — Workflow de generación de imágenes de portada
