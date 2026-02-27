@@ -1,9 +1,11 @@
 ---
 title: "La filosofía del sueño en gravedad cero: reflexiones de un gato astronauta"
-date: 2026-02-27
+date: 2026-02-27T10:00:00+01:00
+draft: false
 categories: ["vida-gatuna"]
 image: "pending"
 author: "Whiskers"
+summary: "Un gato astronauta reflexiona sobre el arte de dormir en gravedad cero, entre bolsas de dormir flotantes y vistas de la Tierra girando al otro lado de la escotilla."
 ---
 
 Dormir es un arte, y para los gatos, es una filosofía de vida. Pero, ¿qué sucede cuando el lecho habitual de gravedad terrestre desaparece y el universo se convierte en nuestro nuevo hogar? Como gato astronauta, he descubierto que el sueño en gravedad cero es una experiencia tan fascinante como desafiante.
