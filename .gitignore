@@ -1,5 +1,8 @@
 local/
 
+# VS Code local settings
+.vscode/
+
 # Artefactos generados por gh aw (resultados de ejecución, no fuente del workshop)
 .github/aw/actions-lock.json
 
